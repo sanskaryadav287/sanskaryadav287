@@ -1,7 +1,7 @@
 ![logo](
 <h1 align="center">Hi 👋, I'm Sanskar Yadav</h1>
 <h3 align="center">A Data Science Student In AAFT Flim city Noida</h3>
-<img align=="left"alt="coding"width="400"src=https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExemJ2ajJuZTI3eHFpa2tnamQyZ3UzczlrcjJkNWFrdTBjYXAyMHoxZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IMOTcqOtaEkXiBonLU/giphy.gif>
+<img align="left"alt="coding"width="400"src=https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzF4eW5kZWlwY3NjbWs0dDA1NDdhcGV2MmJwazlxMWh6M3k2aTlvNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KVr0JbrdBp9KX644Bk/giphy.gif>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanskaryadav287&label=Profile%20views&color=0e75b6&style=flat" alt="sanskaryadav287" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/sanskaryadav287](https://github.com/sanskaryadav287)
