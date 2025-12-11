@@ -1,3 +1,4 @@
+![logo](https://github.com/sanskaryadav287/sanskaryadav287/blob/main/Screenshot%202025-12-11%20134720.jpg)
 <h1 align="center">Hi 👋, I'm Sanskar Yadav</h1>
 <h3 align="center">A Data Science Student In AAFT Flim city Noida</h3>
 <img align="Middle"alt="coding"width="400"src=https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnRsZDFqdHp0eXJ4d2NveHRpeXhoNzh6eGg4YzY0bjMya2sxeWtxYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6NjTciHDVFh11crDfY/giphy.gif>
