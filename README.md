@@ -1,8 +1,7 @@
-![logo](https://github.com/sanskaryadav287/sanskaryadav287/blob/main/Screenshot%202025-12-11%20134720.jpg)
+![logo](
 <h1 align="center">Hi 👋, I'm Sanskar Yadav</h1>
 <h3 align="center">A Data Science Student In AAFT Flim city Noida</h3>
-<img align="Middle"alt="coding"width="400"src=https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnNxcW15aHRnNzFiend3dW5kZ2doZWQ3N3lyZGZwYzZsbGl3MmF1dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif>
-
+<img align=="left"alt="coding"width="400"src=https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExemJ2ajJuZTI3eHFpa2tnamQyZ3UzczlrcjJkNWFrdTBjYXAyMHoxZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IMOTcqOtaEkXiBonLU/giphy.gif>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanskaryadav287&label=Profile%20views&color=0e75b6&style=flat" alt="sanskaryadav287" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/sanskaryadav287](https://github.com/sanskaryadav287)
@@ -14,6 +13,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/sanskar-yadav-a1546538a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sanskar-yadav-a1546538a/" height="30" width="40" /></a>
+<a href="https://kaggle.com/sanskar yadav01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="sanskar yadav01" height="30" width="40" /></a>
+<a href="https://fb.com/sanskar yadav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sanskar yadav" height="30" width="40" /></a>
 <a href="https://instagram.com/its.__sanskar__yadav__01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="its.__sanskar__yadav__01" height="30" width="40" /></a>
 </p>
 
@@ -26,11 +27,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanskaryadav287&" alt="sanskaryadav287" /></p>
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently Persuing My B.Sc Data Science
 - 🌱 I’m currently learning Python,SQL,Excel,Power BI,Ml
 - 💬 Ask me about sanskaryadav287@gmail.com
-- 📫 How to reach me: its.__sanskar__yadav__01
 
--->
