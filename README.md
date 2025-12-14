@@ -1,7 +1,8 @@
 ![logo](https://github.com/sanskaryadav287/sanskaryadav287/blob/main/WhatsApp%20Image%202025-12-11%20at%2018.58.09_d4a7cfd1.jpg)
+
 <h1 align="center">Hi 👋, I'm Sanskar Yadav</h1>
 <h3 align="center">A Data Science Student In AAFT Flim city Noida</h3>
-<img align="right"alt="coding"width="400"src=https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzF4eW5kZWlwY3NjbWs0dDA1NDdhcGV2MmJwazlxMWh6M3k2aTlvNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KVr0JbrdBp9KX644Bk/giphy.gif>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanskaryadav287&label=Profile%20views&color=0e75b6&style=flat" alt="sanskaryadav287" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/sanskaryadav287](https://github.com/sanskaryadav287)
@@ -10,11 +11,13 @@
 
 - 📫 How to reach me **sanskaryadav287@gmail.com**
 
+- 📄 Know about my experiences [https://gamma.app/docs/Sanskar-Yadav-5xw3oghbcz3ozps?mode=doc](https://gamma.app/docs/Sanskar-Yadav-5xw3oghbcz3ozps?mode=doc)
+
 - ⚡ Fun fact **I am Expensive**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/https://gamma.app/docs/sanskar-yadav-5xw3oghbcz3ozps?mode=doc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://gamma.app/docs/sanskar-yadav-5xw3oghbcz3ozps?mode=doc" height="30" width="40" /></a>
+<a href="https://twitter.com/sanskar yadav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sanskar yadav" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/sanskar-yadav-a1546538a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sanskar-yadav-a1546538a/" height="30" width="40" /></a>
 <a href="https://kaggle.com/sanskar yadav01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="sanskar yadav01" height="30" width="40" /></a>
 <a href="https://fb.com/sanskar yadav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sanskar yadav" height="30" width="40" /></a>
@@ -27,6 +30,8 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanskaryadav287&show_icons=true&locale=en&layout=compact" alt="sanskaryadav287" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sanskaryadav287&show_icons=true&locale=en" alt="sanskaryadav287" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanskaryadav287&" alt="sanskaryadav287" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanskaryadav287&" alt="sanskaryadav287" /></p>
 - 🔭 I’m currently Persuing My B.Sc Data Science
