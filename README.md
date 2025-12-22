@@ -1,4 +1,4 @@
-![logo](https://github.com/sanskaryadav287/sanskaryadav287/blob/main/Pic%20of%20Data%20Science.jpeg)
+![logo](https://github.com/sanskaryadav287/sanskaryadav287/blob/main/Screenshot%202025-12-22%20022144.png)
 
 <h1 align="center">Hi 👋, I'm Sanskar Yadav</h1>
 <h3 align="center">A Data Science Student In AAFT Flim city Noida</h3>
