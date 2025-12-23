@@ -1,10 +1,17 @@
-![logo](https://github.com/sanskaryadav287/sanskaryadav287/blob/main/Screenshot%202025-12-22%20022144.png)
+![logo](https://github.com/sanskaryadav287/sanskaryadav287/blob/main/qqqq.png)
 
 <h1 align="center">Hi 👋, I'm Sanskar Yadav</h1>
 <h3 align="center">A Data Science Student In AAFT Flim city Noida</h3>
 <img align="Middle"alt="coding"width="200"src=https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmpndzkwcW9mYjBxNXRtYzIxd2k4dWhvdnJiMGRwMHhyNTBuMHAzNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanskaryadav287&label=Profile%20views&color=0e75b6&style=flat" alt="sanskaryadav287" /> </p>
 
+
+- 🔭 I’m currently Persuing My B.Sc Data Science
+
+- 🌱 I’m currently learning Python , SQL , Excel , Power BI , Ml
+  
+- 💬 Ask me about sanskaryadav287@gmail.com
+  
 - 👨‍💻 All of my projects are available at [https://github.com/sanskaryadav287](https://github.com/sanskaryadav287)
 
 - 💬 Ask me about **https://gamma.app/docs/Sanskar-Yadav-5xw3oghbcz3ozps?mode=doc**
@@ -30,11 +37,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanskaryadav287&show_icons=true&locale=en&layout=compact" alt="sanskaryadav287" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sanskaryadav287&show_icons=true&locale=en" alt="sanskaryadav287" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanskaryadav287&" alt="sanskaryadav287" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanskaryadav287&" alt="sanskaryadav287" /></p>
-- 🔭 I’m currently Persuing My B.Sc Data Science
-- 🌱 I’m currently learning Python,SQL,Excel,Power BI,Ml
-- 💬 Ask me about sanskaryadav287@gmail.com
 
